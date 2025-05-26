@@ -66,7 +66,7 @@ src/
 - Add animations for better UX  
 
 ## 📸 Screenshot  
-![Contact Us Page Preview](./public/screenshot.png)  
+![Contact Us Page Preview](./public/images/screenshot.png)  
 
 ## ⚖️ License  
 MIT  
